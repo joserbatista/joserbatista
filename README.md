@@ -26,8 +26,13 @@
 
 ## Experience
 
+**Senior Backend Software Engineer - Paddy Power Betfair** 
+@ *Blip.pt* | *July 2022 – NOW* 
+- Backend Software Engineer for Paddy Power Betfair
+- **Stack**: Java, Spring Boot, Scala, Storm, Elasticsearch
+
 **Senior Backend Software Engineer – TFA** 
-@ *COCUS Portugal* | *September 2021 – NOW* 
+@ *COCUS Portugal* | *July 2022 – NOW* 
 - Backend Software Engineer for TUI Flight Ancillaries
 - Implement and support multiple microservices that interact with multiple airlines for seat reservations and special service reservations (food, special baggage among others)
 - **Stack**: Java 14, Spring Boot, Hibernate, MySQL, AWS
