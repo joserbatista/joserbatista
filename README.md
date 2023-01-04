@@ -7,7 +7,7 @@
 > [Spring Boot + Java 17 + Kotlin project](https://github.com/joserbatista/expman-microservices)
 > 
 # José Batista &ndash; Senior Backend Software Engineer @ Porto, Portugal
--	6+ years of experience as a Backend Software Engineer with experience as tech lead
+-	7+ years of experience as a Backend Software Engineer with experience as tech lead
 - Pragmatic and goal-driven
 - Code reviewer, team mentor and best-practices advocate
 - Formerly instructor of Core Foundations (Git, Clean code, SOLID and Design Patterns)
