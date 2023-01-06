@@ -34,7 +34,7 @@
 - **Stack**: Java, Kafka, Spring Boot, Scala, Apache Storm, Elasticsearch
 
 **Senior Backend Software Engineer – TFA** 
-@ *COCUS Portugal* | *July 2022 – NOW* 
+@ *COCUS Portugal* | *September 2021 – July 2022* 
 - Backend Software Engineer for TUI Flight Ancillaries
 - Implement and support multiple microservices that interact with multiple airlines for seat reservations and special service reservations (food, special baggage among others)
 - **Stack**: Java 14, Spring Boot, Hibernate, MySQL, AWS
