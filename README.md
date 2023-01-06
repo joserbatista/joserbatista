@@ -29,7 +29,7 @@
 **Senior Backend Software Engineer - Paddy Power Betfair** 
 @ *Blip.pt* | *July 2022 – NOW* 
 - Backend Software Engineer for Paddy Power Betfair
-- Implement and support highly available and scalable services that interact with multiple feed provides to update competitions and events from external providers
+- Implement and support highly available and scalable services that interact with multiple feed providers to update competitions and events
 - Implement and support Paddy Power Betfair's search engine
 - **Stack**: Java, Kafka, Spring Boot, Scala, Apache Storm, Elasticsearch
 
