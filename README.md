@@ -25,8 +25,8 @@
 - *Delivery* &ndash; Git, Jenkins, JIRA, GitLab
 
 ## Experience
-**Senior Backend Software Engineer – Wheels** 
-@ *COCUS Portugal* | *February 2023 – NOW* 
+**Senior Backend Software Engineer – TUI Wheels** 
+@ *TUI* | *February 2023 – NOW* 
 - Backend Software Engineer for TUI Wheels
 - Implement and support various event-driven microservices that facilitate interaction with multiple car rental companies for the purpose of reservations
 - **Stack**: Java 11, Quarkus framework, MongoDB, PostgresSQL, AWS
