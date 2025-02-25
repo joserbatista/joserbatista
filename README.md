@@ -29,7 +29,7 @@
 @ *TUI* | *February 2023 – NOW* 
 - Backend Software Engineer for TUI Wheels
 - Implement and support various event-driven microservices that facilitate interaction with multiple car rental companies for the purpose of reservations
-- **Stack**: Java 11, Quarkus framework, MongoDB, PostgresSQL, AWS
+- **Stack**: Java 17, Quarkus framework, MongoDB, PostgresSQL, AWS
 
 **Senior Backend Software Engineer - Paddy Power Betfair** 
 @ *Blip.pt* | *July 2022 – February 2023* 
