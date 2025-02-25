@@ -19,10 +19,10 @@
 - *Core skills* &ndash; Quick Learner, Team Player, Autonomous, Great Eye for Detail, Self-Organized
 
 ## Tools
-- *Frameworks* &ndash; Spring Boot, JUnit, Mockito
+- *Frameworks* &ndash; Spring Boot, JUnit, Mockito, Quarkus
 - *Automation Software* &ndash; Jenkins, Maven
 - *Development* &ndash; vagrant, Postman, SoapUI, IntelliJ IDEA
-- *Delivery* &ndash; Git, Jenkins, JIRA, GitLab
+- *Delivery* &ndash; Git, Jenkins, JIRA
 
 ## Experience
 **Senior Backend Software Engineer – TUI Wheels** 
