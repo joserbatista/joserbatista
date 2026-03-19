@@ -7,11 +7,12 @@
 > [Spring Boot + Java 17 + Kotlin project](https://github.com/joserbatista/expman-microservices)
 > 
 # José Batista &ndash; Senior Backend Software Engineer @ Porto, Portugal
--	9+ years of experience as a Backend Software Engineer with experience as tech lead
-- Pragmatic and goal-driven
-- Code reviewer, team mentor and best-practices advocate
-- Formerly instructor of Core Foundations (Git, Clean code, SOLID and Design Patterns)
-
+- 10+ years as a Software Engineer & Tech Lead, building scalable microservices for travel, betting, and telecom.
+- Pragmatic and goal-driven, delivering high-quality solutions.
+- Experienced code reviewer and mentor, advocating clean code and best practices.
+- Former instructor for Git, Clean Code, SOLID principles, and Design Patterns, empowering 30+ developers.
+- Passionate about solving complex challenges and driving team success.
+- Early adopter of AI-assisted development with Kiro & Amazon Q
 
 ## Skills
 - *Methodologies & Practices* &ndash; Waterfall & Agile development, Test-Driven Development, AI-Assisted Development, Domain-Driven Design, Object-Oriented Programming, Continuous Integration, Automated Testing
