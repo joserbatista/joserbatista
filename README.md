@@ -14,22 +14,31 @@
 
 
 ## Skills
-- *Methodologies & Practices* &ndash; Waterfall & Agile development, Test-Driven Development, Domain-Driven Design, Object-Oriented Programming, Continuous Integration, Automated Testing
+- *Methodologies & Practices* &ndash; Waterfall & Agile development, Test-Driven Development, AI-Assisted Development, Domain-Driven Design, Object-Oriented Programming, Continuous Integration, Automated Testing
 - *Programming Languages* &ndash; Java 8+, Kotlin, Scala, SQL, JavaScript
 - *Core skills* &ndash; Quick Learner, Team Player, Autonomous, Great Eye for Detail, Self-Organized
 
 ## Tools
 - *Frameworks* &ndash; Spring Boot, JUnit, Mockito, Quarkus
 - *Automation Software* &ndash; Jenkins, Maven
-- *Development* &ndash; vagrant, Postman, SoapUI, IntelliJ IDEA
+- *Development* &ndash; Kiro AI IDE, IntelliJ IDEA, Postman, SoapUI, bruno
 - *Delivery* &ndash; Git, Jenkins, JIRA
 
 ## Experience
+
+**Senior Backend Software Engineer – TUI Destilink** 
+@ *TUI* | *October 2025 – NOW* 
+- Backend Software Engineer for TUI Destilink (Sourcing Hotels)
+- Implement and support event-driven cronjobs that handle hotel accommodation data ingestion, transformation and distribution across multiple suppliers
+- Design and develop supplier adapter integrations, Terms & Conditions mapping services and data export pipelines
+- Early adopter of Kiro AI IDE, leveraging specs, steering and agent hooks to streamline development workflows
+- **Stack**: Java 25, Spring Framework, Kafka, PostgreSQL, AWS
+
 **Senior Backend Software Engineer – TUI Wheels** 
-@ *TUI* | *February 2023 – NOW* 
+@ *TUI* | *February 2023 – October 2025* 
 - Backend Software Engineer for TUI Wheels
 - Implement and support various event-driven microservices that facilitate interaction with multiple car rental companies for the purpose of reservations
-- **Stack**: Java 17, Quarkus framework, MongoDB, PostgresSQL, AWS
+- **Stack**: Java 21, Quarkus framework, MongoDB, PostgresSQL, AWS
 
 **Senior Backend Software Engineer - Paddy Power Betfair** 
 @ *Blip.pt* | *July 2022 – February 2023* 
